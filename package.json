@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "serverless": "^1.27.3",
+    "serverless-rust": "^0.1.1"
+  },
+  "name": "slack-incidents"
+}
